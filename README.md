@@ -1,4 +1,7 @@
-# Script1-Contenedores
+# LAB 01 Topicos
+---
+
+## Script1-Contenedores
 
 #### Este programa crea 10 contenedores de tamaño 100px, con colores aleatorios
 
@@ -23,7 +26,7 @@ for (let i=0; i < 10; i++){
 ---
 ---
 
-# Scritp2- Conetendores 1.2
+## Scritp2- Conetendores 1.2
 
 #### Genera 10 contenedores con colores aleatorios y estos no se repiten
 
@@ -61,7 +64,7 @@ for (let i=0; i < 10; i++){
 
 ---
 ---
-# script3- Parrafos Inteligentes
+## script3- Parrafos Inteligentes
 
 #### programa que genera 5 parrafos entre 50 y 100 palabras con texto aleatorio
 
